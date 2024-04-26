@@ -1,4 +1,4 @@
-This repository contains implementations of dynamic programming algorithms to achieve optimal local and global alignments for given DNA sequences. These algorithms are commonly used in bioinformatics for tasks such as sequence similarity analysis and identifying evolutionary relationships between organisms.
+##This repository contains implementations of dynamic programming algorithms to achieve optimal local and global alignments for given DNA sequences. These algorithms are commonly used in bioinformatics for tasks such as sequence similarity analysis and identifying evolutionary relationships between organisms.
 
 DNA sequence alignment is a fundamental problem in bioinformatics, where the goal is to identify similarities and differences between two DNA sequences. Dynamic programming provides an efficient solution to this problem by allowing us to compute the optimal alignment score and the corresponding alignment itself.
 This repository implements both local and global alignment algorithms using dynamic programming. 
